@@ -10,7 +10,7 @@ const Header = () => {
             </div>
             <div className='col-6 text-white'>
                 <h1 className='fw-bold'>
-                Top 100 Greatest Songs of All Time
+                Top 100 Greatest Songs of <br /> All Time
                 </h1>
                 <p>
                     <small>This playlist contains the top 100 greatest songs from the 50s to the 90s.</small>

@@ -17,7 +17,7 @@ const Music = (props) => {
                             <p className="card-text text-danger fw-bold fs-5">{singer}</p>
                             <p className="card-text"><small><b>Album :</b> {album}</small></p>
                             <p className="card-text">Duration : <small className="text-muted">{duration}</small></p>
-                            <p className="card-text"> Rating : <Rating initialRating={rating.rate} emptySymbol="far fa-star"
+                            <p className="card-text"> Rating : <Rating initialRating={rating.rate} readonly emptySymbol="far fa-star"
                                 fullSymbol="fa fa-star"
                             /> </p>
                             <button onClick={() => props.addToPlaylist(props.song)} className='btn btn-danger'><small><i className="fas fa-music me-2"></i>Add to Playlist</small></button>
