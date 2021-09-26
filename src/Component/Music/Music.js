@@ -6,12 +6,12 @@ const Music = (props) => {
     return (
         <div className='col-6 col-lg-4 my-3 '>
             <div className="card mb-3 music  h-100">
-                <div className="row g-0 align-items-center pt-2">
-                    <div className="col-md-5 p-3">
+                <div className="row g-0 align-items-start pt-2">
+                    <div className="col-md-4 p-3">
                         <img src={image} className="music-image " alt="..." />
                         <p className="text-white text-center pt-2"><b>Cost :</b> {price}</p>
                     </div>
-                    <div className="col-md-7">
+                    <div className="col-md-8">
                         <div className="card-body text-white">
                             <h4 className="card-title fw-bold"> {name}</h4>
                             <p className="card-text text-danger fw-bold fs-5">{singer}</p>

@@ -9,7 +9,7 @@
         "album": "A Night At The Opera",
         "image": "https://i.scdn.co/image/ab67616d00001e02ce4f1737bc8a646c8c4bd25a",
         "rating": {
-            "rate": 4.5,
+            "rate": 5,
             "count": 900
         }
     },
@@ -23,7 +23,7 @@
         "album": "Elvis' Golden Records",
         "image": "https://i.scdn.co/image/ab67616d00001e0220ee3e86e17f17239bef1f76",
         "rating": {
-            "rate": 4.5,
+            "rate": 3.5,
             "count": 900
         }
     },
@@ -37,7 +37,7 @@
         "album": "Hotel California",
         "image": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
         "rating": {
-            "rate": 4.5,
+            "rate": 3.9,
             "count": 900
         }
     },
@@ -51,7 +51,7 @@
         "album": "Thriller 25 Super Deluxe Edition",
         "image": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
         "rating": {
-            "rate": 4.5,
+            "rate": 2.1,
             "count": 900
         }
     },
@@ -65,7 +65,7 @@
         "album": "Let It Be (Remastered)",
         "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
         "rating": {
-            "rate": 4.3,
+            "rate": 4.6,
             "count": 900
         }
     },
@@ -79,7 +79,7 @@
         "album": "Out Of Our Heads",
         "image": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
         "rating": {
-            "rate": 4.5,
+            "rate": 2.4,
             "count": 900
         }
     },
@@ -93,7 +93,7 @@
         "album": "Toto IV",
         "image": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b",
         "rating": {
-            "rate": 4.5,
+            "rate": 4,
             "count": 900
         }
     },
@@ -107,7 +107,7 @@
         "album": "Boston",
         "image": "https://i.scdn.co/image/ab67616d00001e0290ef9760e57fafd8f966d17a",
         "rating": {
-            "rate": 4.5,
+            "rate": 4.6,
             "count": 900
         }
     },
@@ -135,7 +135,7 @@
         "album": "Saturday Night Fever",
         "image": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
         "rating": {
-            "rate": 4.5,
+            "rate": 4.7,
             "count": 900
         }
     },
@@ -149,7 +149,7 @@
         "album": "Nevermind (Remastered)",
         "image": "https://i.scdn.co/image/ab67616d00001e02e175a19e530c898d167d39bf",
         "rating": {
-            "rate": 4.5,
+            "rate": 4.6,
             "count": 900
         }
     },
@@ -163,7 +163,7 @@
         "album": "Synchronicity",
         "image": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
         "rating": {
-            "rate": 4.5,
+            "rate": 3.7,
             "count": 900
         }
     },
@@ -177,7 +177,7 @@
         "album": "Don't Play That Song (Mono)",
         "image": "https://i.scdn.co/image/ab67616d00001e021813ea8f590a0aab2820f922",
         "rating": {
-            "rate": 4.5,
+            "rate": 5,
             "count": 900
         }
     },
@@ -191,7 +191,7 @@
         "album": "I Do Not Want What I Haven't Got",
         "image": "https://i.scdn.co/image/ab67616d00001e026f6536c2e326fb2b42db90f8",
         "rating": {
-            "rate": 4.5,
+            "rate": 4.1,
             "count": 900
         }
     },
@@ -205,7 +205,7 @@
         "album": "Escape",
         "image": "https://i.scdn.co/image/ab67616d00001e02c5653f9038e42efad2f8a266",
         "rating": {
-            "rate": 4.5,
+            "rate": 3.3,
             "count": 900
         }
     },
@@ -222,5 +222,479 @@
             "rate": 4.5,
             "count": 900
         }
+    },
+
+
+
+
+
+    {
+        "id": "hgsdhgfse121111",
+        "name": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "duration": "5:54",
+        "price" : 1.99,
+        "Written": "Freddie Mercury",
+        "album": "A Night At The Opera",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce4f1737bc8a646c8c4bd25a",
+        "rating": {
+            "rate": 5,
+            "count": 900
+        }
+    },
+    {
+        "id": "adshgsdhgfse1221",
+        "name": "Jailhouse Rock",
+        "singer": "Elvis Presley",
+        "duration": "5:54",
+        "price" : 1.99,
+        "Written": "Jerry Leiber ,Mike Stoller",
+        "album": "Elvis' Golden Records",
+        "image": "https://i.scdn.co/image/ab67616d00001e0220ee3e86e17f17239bef1f76",
+        "rating": {
+            "rate": 3.5,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhg454fse1231",
+        "name": "Hotel California",
+        "singer": "EaglesJim, Ed Norman",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Don Felder, Don Henley ,Glenn Frey",
+        "album": "Hotel California",
+        "image": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
+        "rating": {
+            "rate": 3.9,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgv54fse1241",
+        "name": "Billie Jean",
+        "singer": "Michael Jackson",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Michael J. Jackson",
+        "album": "Thriller 25 Super Deluxe Edition",
+        "image": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
+        "rating": {
+            "rate": 2.1,
+            "count": 900
+        }
+    },
+    {
+        "id": "hg457856s2dhgfse1251",
+        "name": "Let It Be",
+        "singer": "The Beatles",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "John Lennon, Paul McCartney",
+        "album": "Let It Be (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+        "rating": {
+            "rate": 4.6,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse1261",
+        "name": "(I Can't Get No) Satisfaction",
+        "singer": "The Rolling Stones",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Keith Richards, Mick Jagger",
+        "album": "Out Of Our Heads",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
+        "rating": {
+            "rate": 2.4,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse1271",
+        "name": "Africa",
+        "singer": "TOTO",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "David Paich, Jeffrey Porcaro",
+        "album": "Toto IV",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b",
+        "rating": {
+            "rate": 4,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse1281",
+        "name": "More Than a Feeling",
+        "singer": "Boston",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "T. Scholz",
+        "album": "Boston",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290ef9760e57fafd8f966d17a",
+        "rating": {
+            "rate": 4.6,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse1291",
+        "name": "More Than a Feeling",
+        "singer": "Boston",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "T. Scholz",
+        "album": "Boston",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290ef9760e57fafd8f966d17a",
+        "rating": {
+            "rate": 4.5,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12101",
+        "name": "Stayin' Alive",
+        "singer": "Bee Gees",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Barry Gibb, Maurice Gibb, Robin Gibb",
+        "album": "Saturday Night Fever",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+        "rating": {
+            "rate": 4.7,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12111",
+        "name": "Smells Like Teen Spirit",
+        "singer": "Nirvana",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Dave Grohl, Krist Novoselic, Kurt Cobain",
+        "album": "Nevermind (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e175a19e530c898d167d39bf",
+        "rating": {
+            "rate": 4.6,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12121",
+        "name": "Every Breath You Take",
+        "singer": "The Police",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Sting",
+        "album": "Synchronicity",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
+        "rating": {
+            "rate": 3.7,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12131",
+        "name": "Stand by Me",
+        "singer": "Ben E. King, Stan Applebaum",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Ben E. King, Jerry Leiber, Mike Stoller",
+        "album": "Don't Play That Song (Mono)",
+        "image": "https://i.scdn.co/image/ab67616d00001e021813ea8f590a0aab2820f922",
+        "rating": {
+            "rate": 5,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12141",
+        "name": "Nothing Compares 2 U",
+        "singer": "Sinéad O'Connor",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Prince, Prince Nelson",
+        "album": "I Do Not Want What I Haven't Got",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f6536c2e326fb2b42db90f8",
+        "rating": {
+            "rate": 4.1,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse1215111",
+        "name": "Don't Stop Believin'",
+        "singer": "Journey",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Jonathan Cain, Neal Schon, Stephen Perry",
+        "album": "Escape",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5653f9038e42efad2f8a266",
+        "rating": {
+            "rate": 3.3,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12161",
+        "name": "Imagine",
+        "singer": "John Lennon",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "John Lennon",
+        "album": "Imagine",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc",
+        "rating": {
+            "rate": 4.5,
+            "count": 900
+        }
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "id": "hgsdhgfse1211112",
+        "name": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "duration": "5:54",
+        "price" : 1.99,
+        "Written": "Freddie Mercury",
+        "album": "A Night At The Opera",
+        "image": "https://i.scdn.co/image/ab67616d00001e02ce4f1737bc8a646c8c4bd25a",
+        "rating": {
+            "rate": 5,
+            "count": 900
+        }
+    },
+    {
+        "id": "adshgsdhgfse12212",
+        "name": "Jailhouse Rock",
+        "singer": "Elvis Presley",
+        "duration": "5:54",
+        "price" : 1.99,
+        "Written": "Jerry Leiber ,Mike Stoller",
+        "album": "Elvis' Golden Records",
+        "image": "https://i.scdn.co/image/ab67616d00001e0220ee3e86e17f17239bef1f76",
+        "rating": {
+            "rate": 3.5,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhg454fse123122",
+        "name": "Hotel California",
+        "singer": "EaglesJim, Ed Norman",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Don Felder, Don Henley ,Glenn Frey",
+        "album": "Hotel California",
+        "image": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
+        "rating": {
+            "rate": 3.9,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgv54fse12412",
+        "name": "Billie Jean",
+        "singer": "Michael Jackson",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Michael J. Jackson",
+        "album": "Thriller 25 Super Deluxe Edition",
+        "image": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
+        "rating": {
+            "rate": 2.1,
+            "count": 900
+        }
+    },
+    {
+        "id": "hg457856s2dhgfse12512",
+        "name": "Let It Be",
+        "singer": "The Beatles",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "John Lennon, Paul McCartney",
+        "album": "Let It Be (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+        "rating": {
+            "rate": 4.6,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12612",
+        "name": "(I Can't Get No) Satisfaction",
+        "singer": "The Rolling Stones",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Keith Richards, Mick Jagger",
+        "album": "Out Of Our Heads",
+        "image": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
+        "rating": {
+            "rate": 2.4,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12712",
+        "name": "Africa",
+        "singer": "TOTO",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "David Paich, Jeffrey Porcaro",
+        "album": "Toto IV",
+        "image": "https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b",
+        "rating": {
+            "rate": 4,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12812",
+        "name": "More Than a Feeling",
+        "singer": "Boston",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "T. Scholz",
+        "album": "Boston",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290ef9760e57fafd8f966d17a",
+        "rating": {
+            "rate": 4.6,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12912",
+        "name": "More Than a Feeling",
+        "singer": "Boston",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "T. Scholz",
+        "album": "Boston",
+        "image": "https://i.scdn.co/image/ab67616d00001e0290ef9760e57fafd8f966d17a",
+        "rating": {
+            "rate": 4.5,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse121012",
+        "name": "Stayin' Alive",
+        "singer": "Bee Gees",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Barry Gibb, Maurice Gibb, Robin Gibb",
+        "album": "Saturday Night Fever",
+        "image": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+        "rating": {
+            "rate": 4.7,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse121112",
+        "name": "Smells Like Teen Spirit",
+        "singer": "Nirvana",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Dave Grohl, Krist Novoselic, Kurt Cobain",
+        "album": "Nevermind (Remastered)",
+        "image": "https://i.scdn.co/image/ab67616d00001e02e175a19e530c898d167d39bf",
+        "rating": {
+            "rate": 4.6,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse121212",
+        "name": "Every Breath You Take",
+        "singer": "The Police",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Sting",
+        "album": "Synchronicity",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c8e97cafeb2acb85b21a777e",
+        "rating": {
+            "rate": 3.7,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse121312",
+        "name": "Stand by Me",
+        "singer": "Ben E. King, Stan Applebaum",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Ben E. King, Jerry Leiber, Mike Stoller",
+        "album": "Don't Play That Song (Mono)",
+        "image": "https://i.scdn.co/image/ab67616d00001e021813ea8f590a0aab2820f922",
+        "rating": {
+            "rate": 5,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse121412",
+        "name": "Nothing Compares 2 U",
+        "singer": "Sinéad O'Connor",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Prince, Prince Nelson",
+        "album": "I Do Not Want What I Haven't Got",
+        "image": "https://i.scdn.co/image/ab67616d00001e026f6536c2e326fb2b42db90f8",
+        "rating": {
+            "rate": 4.1,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse12151112",
+        "name": "Don't Stop Believin'",
+        "singer": "Journey",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "Jonathan Cain, Neal Schon, Stephen Perry",
+        "album": "Escape",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c5653f9038e42efad2f8a266",
+        "rating": {
+            "rate": 3.3,
+            "count": 900
+        }
+    },
+    {
+        "id": "hgsdhgfse121612",
+        "name": "Imagine",
+        "singer": "John Lennon",
+        "duration": "6:31",
+        "price" : 1.99,
+        "Written": "John Lennon",
+        "album": "Imagine",
+        "image": "https://i.scdn.co/image/ab67616d00001e0299581550ef9746ca582bb3cc",
+        "rating": {
+            "rate": 4.5,
+            "count": 900
+        }
     }
+
+
+
+
+
+
+
+
+
+
+
+
 ]
