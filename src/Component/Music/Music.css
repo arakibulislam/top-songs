@@ -1,13 +1,24 @@
 .music{
-   background-color: #181818;
+   background-color: #1d1d1d;
    transition: background-color .6s ease;
-   border-radius: 10px;
+   border-radius: 15px;
 }
 .music:hover{
-    background-color:#2a2a2a;
+    background-color:#353535;
     
 }
 .music-image{
     box-shadow: 0 8px 24px rgb(0 0 0 / 50%);
     width: 100%;
+    border-radius: 10px;
+}
+.btn{
+    padding: 0 12px !important;
+}
+.card-text{
+    line-height: 15px;
+}
+.fa-star{
+    color: orange;
+    font-size: 15px;
 }

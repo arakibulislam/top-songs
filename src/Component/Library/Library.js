@@ -5,12 +5,13 @@ import './Library.css'
 
 const Library = () => {
     const [music, setMusic] = useState([])
-    const [playlist, setPlaylist] = useState([])
     useEffect(() => {
         fetch('./data.JSON')
             .then(res => res.json())
             .then(data => setMusic(data))
     }, [])
+
+    const [playlist, setPlaylist] = useState([])
     const addToPlaylist = music =>{
         const newPlaylist = [...playlist, music]
         setPlaylist(newPlaylist);
@@ -18,16 +19,16 @@ const Library = () => {
 
     return (
         <div className='library'>
-            <div className='w-50 mx-auto text-white pt-4'>
-                <h1>Total Songs: {music.length}</h1>
+            <div className='w-50 ms-auto text-white py-5'>
+                <h1 className="fw-bold"><i className="fas fa-play-circle me-3"></i>Total Songs : {music.length}</h1>
             </div>
             <div className='row ps-5'>
-                <div className='library-1 col-2'>
+                <div className='library-1 col-3'>
                 <Playlist playlist={playlist}></Playlist>
                 </div>
-                <div className='row col-10 '>
+                <div className='row col-9 '>
                     {
-                        music.map(song => <Music song={song} addToPlaylist = {addToPlaylist} ></Music>)
+                        music.map(song => <Music key = {song.id} song={song} addToPlaylist = {addToPlaylist} ></Music>)
                     }
                 </div>
             </div>

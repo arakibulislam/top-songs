@@ -5,10 +5,10 @@ const Header = () => {
     return (
         <div className='header'>
             <div  className='row align-items-end header-1'>
-            <div className='col-5 text-end' >
+            <div className='col-6 text-end' >
                 <img className=' image' src={logo} alt="" />
             </div>
-            <div className='col-7 text-white'>
+            <div className='col-6 text-white'>
                 <h1 className='fw-bold'>
                 Top 100 Greatest Songs of All Time
                 </h1>

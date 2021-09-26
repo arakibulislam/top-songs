@@ -6,10 +6,10 @@
         "duration": "5:54",
         "price" : 1.99,
         "Written": "Freddie Mercury",
-        "produced": "Produced",
+        "album": "A Night At The Opera",
         "image": "https://i.scdn.co/image/ab67616d00001e02ce4f1737bc8a646c8c4bd25a",
         "rating": {
-            "rate": 4.9,
+            "rate": 4.5,
             "count": 900
         }
     },
@@ -65,7 +65,7 @@
         "album": "Let It Be (Remastered)",
         "image": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
         "rating": {
-            "rate": 4.5,
+            "rate": 4.3,
             "count": 900
         }
     },
