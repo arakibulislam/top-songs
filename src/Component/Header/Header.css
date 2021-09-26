@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(160, 64, 112) ;
+    
+}
+.header-1{
+    background: linear-gradient(transparent 0,rgba(0,0,0,.5) 100%);
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.image{
+    box-shadow: 0 4px 60px rgb(0 0 0 / 50%);
+    width: 300px;
+}
