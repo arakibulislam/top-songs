@@ -9,7 +9,7 @@ const Music = (props) => {
                 <div className="row g-0 align-items-start pt-2">
                     <div className="col-md-4 p-3">
                         <img src={image} className="music-image " alt="..." />
-                        <p className="text-white text-center pt-2"><b>Cost :</b> {price}</p>
+                        <p className="text-white text-center pt-2"><b>Cost :</b> ${price}</p>
                     </div>
                     <div className="col-md-8">
                         <div className="card-body text-white">
